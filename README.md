@@ -1,5 +1,5 @@
 # Trajectory_design
-Tento súbor obsahuje návod ako spustiť aplikáciu Trajectory_design.mlapp  
+Tento súbor obsahuje návod ako spustiť aplikáciu `Trajectory_design.mlapp` 
 Pred spustením aplikácie `Trajectory_design.mlapp` je potrebné vykonať nasledujúce kroky:
 1. Stiahnuť repozitár https://github.com/jonabalzer/braccio_description ako ZIP archív,  
    obsahujúci urdf súbor s opisom robota Tinkerkit Braccio a všetky ďalšie potrebné súbory.
